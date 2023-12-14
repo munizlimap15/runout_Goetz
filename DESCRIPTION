@@ -1,0 +1,18 @@
+Package: runoptGPP
+Type: Package
+Title: GPP regional runout model optimization and validation in R
+Version: 0.1.0
+Author: Jason Goetz
+Maintainer: Jason Goetz <jason.goetz@uni-jena.de>
+Description: Automatic parameter selection and validation tools for the 
+    random walk and PCM components of the Gravitational Process Path (GPP) model in SAGA-GIS.
+License: GPL-3
+Encoding: UTF-8
+Imports: raster, rgdal, rgeos, sf, ggplot2, reshape2, ROCR, sperrorest, Rsagacmd, sp, methods
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: knitr, rmarkdown, patchwork, ggnewscale
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)
+

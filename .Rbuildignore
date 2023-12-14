@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^analysis$
+^testing$
+^data-raw$
+^doc$
+^Meta$
